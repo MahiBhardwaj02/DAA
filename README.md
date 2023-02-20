@@ -1,4 +1,4 @@
-Week 1(Q.1) # DAA![218452146-78e60de6-3416-4e32-a5dd-fa81292a9173](https://user-images.githubusercontent.com/125014177/220150111-3223766d-5030-4809-855c-b9db937037ce.png)
+Week 1(Q.1)![218452146-78e60de6-3416-4e32-a5dd-fa81292a9173](https://user-images.githubusercontent.com/125014177/220150111-3223766d-5030-4809-855c-b9db937037ce.png)
 
 Week 1(Q.2)![image](https://user-images.githubusercontent.com/125014177/220152779-721ec3d3-e91a-41bb-ad08-ca14ff681186.png)
 
